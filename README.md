@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!-- Header -->
 
-<img src="https://github.com/mculep/test/blob/master/assets/banner.jpg" width="900" height="250" alt="Header picture" />
+<img src="images/josh.jpg" width="900" height="250" alt="Header picture" />
 
 <!-- Contact/Work -->
 
