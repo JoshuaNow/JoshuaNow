@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<a href="https://www.python.org" target="_blank"> <img src="/images/icons8-python-48.png" alt="python" width="60" height="60"/> </a> 
+<a href="https://www.python.org" target="_blank"> <img src="/images/icons8-python-48.png" alt="python" width="60" height="60"/> \ Python </a> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="/images/icons8-html-5-48.png" alt="html5" width="60" height="60"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="/images/icons8-css3-48.png" alt="css3" width="60" height="60"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="/images/icons8-javascript-48.png" alt="javascript" width="60" height="60"/> </a> 
