@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="/images/icons8-css3-48.png" alt="css3" width="60" height="60"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="/images/icons8-javascript-48.png" alt="javascript" width="60" height="60"/> </a> 
 <a href="https://nodejs.org" target="_blank"> <img src="/images/icons8-nodejs-48.png" alt="nodejs" width="60" height="60"/> </a> 
-<!-- <a href="https://expressjs.com" target="_blank"> <img src="/images/express2.png" alt="express" width="60" height="60" /> </a>  --> ### Express
+<!-- <a href="https://expressjs.com" target="_blank"> <img src="/images/express2.png" alt="express" width="60" height="60" /> </a>  --> 
 <a href="https://www.postgresql.org" target="_blank"> <img src="/images/icons8-postgresql-48.png" alt="postgresql" width="60" height="60"/> </a> 
 <a href="https://reactjs.org/" target="_blank"> <img src="/images/icons8-react-native-48.png" alt="react" width="60" height="60"/> </a> 
 <a href="https://aws.amazon.com" target="_blank"> <img src="/images/icons8-amazon-web-services-48.png" alt="aws" width="60" height="60"/> </a> 
