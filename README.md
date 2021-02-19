@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 -   💬 Ask me about motorcycles, video games and sports
 
--   ⚡ Fun fact: I have won money playing competitive video games. 
+-   ⚡ Fun fact: I played for a MLS team youth academy in California.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
