@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 
 <!-- Contact/Work -->
 
--   🌱 I’m currently learning **Express.js, and React.js.**
+-   🌱 I am a graduate of DigitalCrafts immersive full-stack developer program March, 2021
 
 -   📫 How to reach me **jrenelopez92@gmail.com**
 
 -   💬 Ask me about motorcycles, video games and sports
 
--   ⚡ Fun fact: I played for a MLS team youth academy in California.
+-   ⚡ Fun fact: I played for a MLS team sub - 16 team in California.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
