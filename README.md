@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 -   💬 Ask me about motorcycles, video games and sports
 
--   ⚡ Fun fact: I played for a MLS team sub - 16 team in California.
+-   ⚡ Fun fact: I used to play for a MLS sub - 16 team in California.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
