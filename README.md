@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <!-- Contact/Work -->
 
--   🌱 I am a graduate of DigitalCrafts immersive full-stack developer program February, 2021
+-   🌱 I am a graduated from DigitalCrafts immersive full-stack developer program February, 2021
 
 -   📫 How to reach me **jrenelopez92@gmail.com**
 
