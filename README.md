@@ -1,5 +1,6 @@
 
 
+
 <!--
 **JoshuaNow/JoshuaNow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -35,6 +36,9 @@ Here are some ideas to get you started:
 -   💬  Ask me about motorcycles, video games and sports
 
 -   ⚡  Fun fact: I used to play for a MLS sub - 16 team in California.
+
+-  You can download my resume here :<a href=https://github.com/JoshuaNow/JoshuaNow/files/7166386/JoshuaLopezResume.pdf > Download My resume </a>
+- You can visit my portfolio page here : <a href=https://joshuanow.github.io/ > My portfolio </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
