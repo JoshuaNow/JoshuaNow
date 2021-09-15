@@ -16,17 +16,25 @@ Here are some ideas to get you started:
 -->
 <!-- Header -->
 
-<img src="images/josh-banner.jpg" width="900" height="250" alt="Header picture" />
+<!-- <img src="images/josh-banner.jpg" width="900" height="250" alt="Header picture" /> -->
 
 <!-- Contact/Work -->
+<h1 align="left"> Hello, I'm Josh 👋🏽 </h1>
+<h2 align="left"> A jr developer seeking a entry-level role 💻 ☕️ </h2>
 
--   🌱 I am a graduated from DigitalCrafts immersive full-stack developer program February, 2021
+-   🔭 I’m currently working on my React Skills by learning NextJs and building features/apps
 
--   📫 How to reach me **jrenelopez92@gmail.com**
+-   🌱 Also currently learning <b> MongoDB , NextJS , React Native</b>
 
--   💬 Ask me about motorcycles, video games and sports
+-   😄  a graduate from DigitalCrafts immersive full-stack developer program February, 2021
+  
+-   👯  looking to collaborate on any MERN stack projects/startup ideas or pair programming
 
--   ⚡ Fun fact: I used to play for a MLS sub - 16 team in California.
+-   📫  How to reach me **jrenelopez92@gmail.com**
+
+-   💬  Ask me about motorcycles, video games and sports
+
+-   ⚡  Fun fact: I used to play for a MLS sub - 16 team in California.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
