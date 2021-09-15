@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <!-- Contact/Work -->
 <h1 align="left"> Hello, I'm Josh 👋🏽 </h1>
-<h2 align="left"> A jr developer seeking a entry-level role 💻 ☕️ </h2>
+<h2 align="left"> a jr developer seeking a entry-level role 💻 ☕️ </h2>
 
 -   🔭 I’m currently working on my React Skills by learning NextJs and building features/apps
 
