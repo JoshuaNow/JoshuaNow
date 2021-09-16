@@ -21,13 +21,13 @@ Here are some ideas to get you started:
 
 <!-- Contact/Work -->
 <h1 align="left"> Hello, I'm Josh 👋🏽 </h1>
-<h2 align="left"> a jr developer seeking a entry-level role 💻 ☕️ </h2>
+<h2 align="left">jr developer seeking a entry-level role 💻 ☕️ </h2>
 
 -   🔭 I’m currently working on my React Skills by building features/apps
 
 -   🌱  currently learning <b> MongoDB , NextJS , React Native</b>
 
--   😄  a graduate from DigitalCrafts immersive full-stack developer program February, 2021
+-   😄  graduate from DigitalCrafts immersive full-stack developer program February, 2021
   
 -   👯  looking to collaborate on any MERN stack projects/startup ideas or pair programming
 
