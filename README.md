@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 
 -   ⚡  Fun fact: I used to play for a MLS sub - 16 team in California.
 
--  You can download my resume here :<a href=https://github.com/JoshuaNow/JoshuaNow/files/7166386/JoshuaLopezResume.pdf > Download My resume </a>
-- You can visit my portfolio page here : <a href=https://joshuanow.github.io/ > My portfolio </a>
+-  📄You can download my resume here :<a href=https://github.com/JoshuaNow/JoshuaNow/files/7166386/JoshuaLopezResume.pdf > Download My resume </a>
+- 👨🏽‍💻You can visit my portfolio page here : <a href=https://joshuanow.github.io/ > My portfolio </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
