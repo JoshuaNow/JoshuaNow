@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <!-- Contact/Work -->
 <h1 align="left"> Hello, I'm Josh 👋🏽 </h1>
-<img src=https://www.codewars.com/users/JoshNow/badges/small" alt="Header picture" />
+![alt text](https://www.codewars.com/users/JoshNow/badges/small)
 
 <h2 align="left">jr developer seeking an entry-level role 💻 ☕️ </h2>
 
