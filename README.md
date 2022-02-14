@@ -61,5 +61,5 @@ Here are some ideas to get you started:
 <a href="https://reactjs.org/" target="_blank"> <img src="/images/icons8-react-native-48.png" alt="react" width="60" height="60"/> </a> 
 <a href="https://aws.amazon.com" target="_blank"> <img src="/images/icons8-amazon-web-services-48.png" alt="aws" width="60" height="60"/> </a> 
 </p>
-
+<a href="https://www.codewars.com/">My codewars badge</a>
 <img src="https://www.codewars.com/users/JoshNow/badges/large"/>
