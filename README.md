@@ -62,5 +62,5 @@ Here are some ideas to get you started:
 <a href="https://aws.amazon.com" target="_blank"> <img src="/images/icons8-amazon-web-services-48.png" alt="aws" width="60" height="60"/> </a> 
   
 - My <a href="https://www.codewars.com/">codewars</a> badge.
-<img src="https://www.codewars.com/users/JoshNow/badges/small"/>
+<img src="https://www.codewars.com/users/JoshNow/badges/large"/>
 </p>
